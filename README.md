@@ -1,4 +1,4 @@
-#Chess System Java
+# Chess System Java
 <p align="center">
     <img src="img/playingTheGame.png" alt="Game">
 </p>
